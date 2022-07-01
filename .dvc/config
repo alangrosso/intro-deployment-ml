@@ -1,0 +1,6 @@
+[core]
+    remote = model-track
+['remote "dataset-track"']
+    url = gdrive://1F0tc6LvrKO7ay0YrWVSGtmE3JdWIhKHQ
+['remote "model-track"']
+    url = gdrive://1ZLBC1esmJ5hvmxB-kdWRsdc0_cKIFfQD

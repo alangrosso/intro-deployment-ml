@@ -1,6 +1,5 @@
 venv/
 notebooks/.ipynb_checkpoints
-src/
 
 *.json
 *.csv
