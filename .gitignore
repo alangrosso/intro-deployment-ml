@@ -4,6 +4,6 @@ notebooks/.ipynb_checkpoints
 *.json
 *.csv
 *.pkl
-*.txt
+report.txt
 *.png
 __pycached__/
